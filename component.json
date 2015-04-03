@@ -1,0 +1,10 @@
+{
+    "repos": "https://github.com/huacnlee/jquery.qeditor",
+    "version": "0.1.1",
+    "description": "This is a simple WYSIWYG editor with jQuery.",
+    "name": "jquery-qeditor",
+    "main": "jquery.qeditor.js",
+    "dependencies": [
+        "jquery@>=1.6"
+    ]
+}
